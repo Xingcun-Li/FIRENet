@@ -1,2 +1,2 @@
 # FIRENet
-Fine-grained and Imbalanced Reflux Esophagitis Network (FIRENet)
+FIRENet: Fine-grained and Imbalanced Reflux Esophagitis Network
